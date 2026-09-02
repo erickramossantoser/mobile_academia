@@ -6,8 +6,8 @@ O aplicativo controla a quantidade de pessoas em uma academia com capacidade má
 
 ## Integrantes
 
-- Nome: ______________________________ — RM: ______________
-- Nome: ______________________________ — RM: ______________
+- Murilo Marques — RM568224
+- Erick Ramos — RM567837
 
 ## Como executar
 
