@@ -44,3 +44,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 /android/.kotlin/
+
+# Ferramentas locais de verifica??o e grava??es intermedi?rias
+.local/

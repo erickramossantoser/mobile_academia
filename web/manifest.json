@@ -1,11 +1,11 @@
 {
-    "name": "controle_lotacao_academia",
-    "short_name": "controle_lotacao_academia",
+    "name": "Academia - Controle de Lotação 2.0",
+    "short_name": "Academia 2.0",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "Aplicativo para controle de lotação de uma academia",
+    "background_color": "#1565C0",
+    "theme_color": "#1565C0",
+    "description": "Gerenciamento de entradas e saídas da academia",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
