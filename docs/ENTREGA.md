@@ -14,7 +14,7 @@ O PDF não pede APK nem arquivo ZIP como entregável obrigatório.
 ## Arquivos preparados
 
 - Código Flutter da parte 2, mantendo a parte 1 no histórico.
-- README com projeto, descrição, ambiente, integrantes, execução e pacotes.
+- README com projeto, descrição, ambiente, autor, execução e pacotes.
 - `docs/demonstracao.mp4`: demonstração real do app no navegador em tamanho de celular.
 - `docs/EXPLICACAO.md`: explicação do código para estudar.
 - Ícone de halter e fontes locais.
@@ -22,7 +22,7 @@ O PDF não pede APK nem arquivo ZIP como entregável obrigatório.
 
 ## Antes de enviar no Teams
 
-- Confira os nomes e RMs de Erick e Murilo no README.
+- Confira o autor no README: Erick Ramos — RM567837.
 - Assista ao vídeo inteiro e veja se o link abre.
 - Confira se a branch `cp2-gerenciamento-acessos` já foi enviada ao GitHub.
 - Abra o link da branch no navegador e confira se aparecem o README novo e o vídeo.

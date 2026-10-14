@@ -4,9 +4,8 @@ Aplicativo Flutter do **Checkpoint 02 de Mobile Application Development**, evolu
 
 **Ambiente escolhido:** academia com capacidade máxima de **20 pessoas**.
 
-## Integrantes
+## Autor
 
-- Murilo Marques — RM568224
 - Erick Ramos — RM567837
 
 ## Demonstração
